@@ -1,16 +1,12 @@
-# new_app
-
-A new Flutter project.
+# A flutter learning series
 
 ## Getting Started
+To view and run the project, please clone the repo, and run the application from `` main.dart`` file.
 
-This project is a starting point for a Flutter application.
+## Appreciation
+A big shoutouts to Arya Wijaya who created the design on dribbble. 
 
-A few resources to get you started if this is your first Flutter project:
+🚧🚧🚧(The second screen is under construction).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Link to the dribble design](https://dribbble.com/shots/15793197-Travel-App/attachments/7603079?mode=media)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
