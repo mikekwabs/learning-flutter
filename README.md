@@ -8,7 +8,7 @@ This is how it looks after coding it
 
 
 ## Appreciation
-A big shoutouts to Arya Wijaya who created the design on dribbble. 
+A big shoutouts to Arya Wijaya for creating the design. 
 
 🚧🚧🚧(The second screen is under construction).
 
