@@ -10,7 +10,7 @@ This is how it looks after coding it
 ## Appreciation
 A big shoutouts to Arya Wijaya for creating the design. 
 
-🚧🚧🚧(The second screen is under construction).
+🚧🚧🚧(More UIs to come).
 
 - [Link to the dribble design](https://dribbble.com/shots/15793197-Travel-App/attachments/7603079?mode=media)
 
